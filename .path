@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+# Add `sbin` to path
+export PATH="$PATH:/usr/local/sbin"
+
+# Add coreutils to path
+# export PATH="$PATH:/usr/local/opt/coreutils/libexec/gnubin"
+
 # Setup Go installation
 export GOPATH="$HOME/go"
 export PATH="$PATH:$GOPATH/bin"
