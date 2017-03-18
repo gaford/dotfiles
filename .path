@@ -9,4 +9,3 @@ export PATH="$PATH:/usr/local/sbin"
 # Setup Go installation
 export GOPATH="$HOME/go"
 export PATH="$PATH:$GOPATH/bin"
-

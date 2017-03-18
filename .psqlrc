@@ -10,7 +10,7 @@
 \set PAGER OFF
 \set HISTFILE ~/.history/psql- :HOST - :DBNAME
 \set HISTSIZE 2000
-\set ECHO_HIDDEN ON
+-- \set ECHO_HIDDEN ON
 \set COMP_KEYWORD_CASE upper
 
 \timing
@@ -19,6 +19,7 @@
 
 \pset null '(NULL)'
 \pset border 2
+\pset linestyle unicode
 
 \set QUIET OFF
 

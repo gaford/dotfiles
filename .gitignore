@@ -1,2 +1,5 @@
 # Mathias Bynens' dotfiles
 /mathiasbynens/
+
+# ignore .extra
+.extra
