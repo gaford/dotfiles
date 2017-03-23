@@ -20,6 +20,7 @@
 \pset null '(NULL)'
 \pset border 2
 \pset linestyle unicode
+\pset format wrapped
 
 \set QUIET OFF
 
