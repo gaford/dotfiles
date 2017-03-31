@@ -53,6 +53,6 @@ complete -W "NSGlobalDomain" defaults;
 complete -o "nospace" -W "Contacts Calendar Dock Finder Mail Safari iTunes SystemUIServer Terminal Twitter" killall;
 
 # Add virtualenvwrapper and autoenv (Python virtual environment handling)
-# source /usr/local/bin/virtualenvwrapper.sh
+source /usr/local/bin/virtualenvwrapper.sh
 # source /usr/local/opt/autoenv/activate.sh
 
