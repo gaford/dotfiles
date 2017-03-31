@@ -36,4 +36,5 @@ export GAFORD="$GOPATH/src/github.com/gaford"
 export VIRTUAL_ENV_DISABLE_PROMPT=1
 
 # Set up virtualenvironmentwrapper
+export VIRTUALENVWRAPPER_PYTHON='/usr/local/bin/python3'
 export WORKON_HOME='$HOME/.envs'
