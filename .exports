@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-# Make emacs the default editor.
-export EDITOR='emacs';
+# Make Sublime Text 3 the default editor.
+export EDITOR='subl -n -w';
 
 # Enable persistent REPL history for `node`.
 export NODE_REPL_HISTORY=~/.node_history;
